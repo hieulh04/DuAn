@@ -1,0 +1,46 @@
+<component name="libraryTable">
+  <library name="lil">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/SparseBitSet-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/bridj-0.6.2-windows-only.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/flatlaf-intellij-themes-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/jakarta.activation-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/sqljdbc42.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/mssql-jdbc-10.2.1.jre17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/poi-ooxml-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/curvesapi-1.07.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/slf4j-log4j12-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/log4j-core-2.19.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/jfreechart-1.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/commons-math3-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/core-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/log4j-api-2.18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/slf4j-api-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/xmlbeans-5.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/poi-scratchpad-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/jcalendar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/poi-examples-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/poi-javadoc-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/poi-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/javase-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/webcam-capture-0.3.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/jakarta.xml.bind-api-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/poi-excelant-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/log4j-api-2.17.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/flatlaf-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/poi-ooxml-lite-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/commons-io-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/poi-ooxml-full-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn1/DuAn1/lil/commons-compress-1.21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
